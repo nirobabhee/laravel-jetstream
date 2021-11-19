@@ -27,3 +27,6 @@ i) npm install
 ii) npm run dev
 
 *5**------***
+
+npm run dev..............use whene u was change inside of any code !
+By deafult - Tailwind CSS give in side of package in jetstream.
