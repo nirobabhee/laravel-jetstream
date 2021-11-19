@@ -1,0 +1,28 @@
+use Illuminate\Support\Facades\Schema;
+ Schema::defaultStringLength(191);
+
+**********---------------------***********
+Master Instruction is : WHENE WE WILL KNEW TO USE JETSTREAM IN OUR PROJECT - WE CAN DO IT FOR INCLUDE WITH --JET
+Command Like: 
+composer create-project --prefer-dist laravel/laravel ProjctName --jet
+----------##----------------
+Only U can Intrigated New Laravel Projects Only!
+*1**--Updated Project Install By this command--***
+composer create-project --prefer-dist laravel/laravel jetstream
+
+*2**---jetstream---***
+composer require laravel/jetstream
+
+
+*3**---Install Jetstream with liveware/Inertia //Choice on Your//---***
+Install Jetstream With Livewire
+php artisan jetstream:install livewire
+
+php artisan jetstream:install livewire --teams
+Or, Install Jetstream With Inertia
+
+*4**---Publish my Jetstream assets in Public folder---***
+i) npm install 
+ii) npm run dev
+
+*5**------***
